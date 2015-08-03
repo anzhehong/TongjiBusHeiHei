@@ -1,2 +1,3 @@
 # TongjiBusHeiHei
-Only used in iPhone 5/5s.
+### From https://github.com/Nathan1994
+adapt to most popular iphones
